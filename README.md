@@ -1,33 +1,28 @@
 # 👋 I'm Collins Isibor — Technical Virtual Assistant & Automation Developer
 
-🐍 Python • ⚡ Node.js • 📧 Email Automation • 🧠 Operations Systems
+🐍 Python • ⚡ Node.js • 📧 Email Automation • 🧠 Business Operations Systems
 
 ---
 
-## 🚀 I design and operate automation systems that replace repetitive administrative work and support business operations at scale.
+## 🚀 I design and deploy automation systems that eliminate repetitive administrative work, streamline data processing, and improve business operational efficiency.
 
 ---
 
 ## 📊 Operational Impact Delivered
 
-| Problem | System Built | Measurable Outcome |
+| Problem | System Built | Measurable Result |
 |---|---|---|
-| Manual email follow-ups and client outreach | Automated SMTP + workflow sequencing system | Reduced manual outreach workload by 15+ hours/week |
-| Disorganized leads across spreadsheets | Built Python-based data cleaning and validation pipeline | Reduced processing time from hours to minutes daily |
-| Lack of structured digital intake system | Developed automated lead capture and routing workflows | Increased response efficiency and lead handling speed |
+| Manual email follow-ups slowing sales outreach | Built SMTP-based email automation workflows | Reduced repetitive outreach workload by 15+ hours/week |
+| Disorganized lead spreadsheets across multiple sources | Developed Python-based data cleaning and validation system | Reduced processing time from hours to minutes daily |
+| Lack of structured lead tracking and workflow consistency | Designed automated data structuring and formatting pipelines | Improved accuracy and consistency in sales data handling |
 
 ---
 
-## 📬 Work With Me
+## 🏢 Experience / Operational Work
 
-- 📧 Email: collinzpy@gmail.com  
-  <!-- replace with your actual email -->
-
-- 💼 Portfolio: https://majestic-choux-edb0c0.netlify.app
-  <!-- replace with your portfolio link -->
-
-- 📹 Demo Walkthroughs: [loom.link]  
-  <!-- replace with Loom or video demos -->
+- Supported a real estate business by automating lead follow-up emails and improving response tracking  
+- Processed and cleaned client lead data using Python automation tools  
+- Assisted in managing CRM-style spreadsheets and improving data accuracy for sales outreach  
 
 ---
 
@@ -35,31 +30,45 @@
 
 | Project | Function |
 |---|---|
-| `email-automation-system` | Built end-to-end email automation workflows with SMTP, personalization, and scheduling logic |
-| `excel-lead-processor` | Developed CLI tool for cleaning, validating, and deduplicating Excel/CSV lead data |
-| `portfolio-website` | Designed and deployed conversion-focused portfolio site for client acquisition |
+| `email-automation-system` | Designed and deployed email automation workflows with SMTP integration, personalization, and scheduling logic |
+| `excel-lead-processor` | Built a Python CLI tool for cleaning, validating, formatting, and deduplicating CSV/Excel lead datasets |
+| `portfolio-website` | Developed a responsive portfolio website optimized for showcasing services and generating client leads |
 
 ---
 
-## ⚙️ Core Responsibilities I Handle
+## ⚙️ Core Capabilities
 
-- Automating repetitive business operations
-- Managing and cleaning structured/unstructured data
-- Building lightweight backend automation tools
-- Supporting email outreach and CRM workflows
-- Streamlining lead generation pipelines
-- Acting as technical support for business operations
+- Automating repetitive business operations and workflows  
+- Managing and cleaning structured/unstructured datasets  
+- Building Python-based automation tools and scripts  
+- Supporting email outreach and CRM-style processes  
+- Improving operational efficiency through system design  
+- Acting as technical support for business processes  
+
+---
+
+## 📬 Work With Me
+
+- 📧 Email: collinzpy@gmail.com
+  <!-- replace with your actual email -->
+
+- 💼 Portfolio: https://majestic-choux-edb0c0.netlify.app/
+  <!-- replace with your portfolio link -->
+
+- 📹 Demo Walkthroughs: [loom.link]  
+  <!-- replace with Loom or video demos -->
 
 ---
 
 ## ⏱️ Availability
 
-Available for remote roles as a Technical Virtual Assistant or Automation Developer — respond within 4 hours and deliver working demos within 24 hours.
+Available for remote roles as a Technical Virtual Assistant or Automation Developer.  
+Fast communication (within 4 hours) and delivery of working automation demos within 24 hours.
 
 ---
 
-## 🙌 Closing
+## 🙌 Closing Statement
 
-I build systems that reduce manual workload, improve operational efficiency, and support scalable business execution.
+I build systems that replace manual processes, improve operational speed, and enable scalable business workflows.
 
 Thanks for visiting.
